@@ -7,14 +7,14 @@ This repository will contain Data Structures and Algorithms ordered from Basic t
 **Will continuously get updated**
 
 **1. Searching**<br>
-  a. Linear Search<br>
-  b. Binary Search
+&nbsp;&nbsp;&nbsp;  a. Linear Search<br>
+&nbsp;&nbsp;&nbsp;  b. Binary Search
 
 **2. Sorting**<br>
-  a. Bubble Sort<br>
-  b. Insertion Sort<br>
-  c. Selection Sort<br>
-  d. Merge sort<br>
-  e. Quick Sort<br>
-  f. Heap Sort<br>
-  g. Bucket Sort
+&nbsp;&nbsp;&nbsp;  a. Bubble Sort<br>
+&nbsp;&nbsp;&nbsp;  b. Insertion Sort<br>
+&nbsp;&nbsp;&nbsp;  c. Selection Sort<br>
+&nbsp;&nbsp;&nbsp;  d. Merge sort<br>
+&nbsp;&nbsp;&nbsp;  e. Quick Sort<br>
+&nbsp;&nbsp;&nbsp;  f. Heap Sort<br>
+&nbsp;&nbsp;&nbsp;  g. Bucket Sort
