@@ -20,3 +20,11 @@ c.   Merge Sort
 d.   Quick Sort
 e.   Heap Sort
 ```
+
+**3. Basic_Data_Structures**<br>
+```
+a. Linked Lists
+b. Stacks, Queues, Deques
+c. Stack using Two Queues
+d. Queue using Two Stacks
+```
